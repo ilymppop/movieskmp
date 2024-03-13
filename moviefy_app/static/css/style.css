@@ -1,0 +1,22 @@
+.movie-list {
+    padding: 90px 0;
+}
+.card-img {
+    width: 100%;
+    height: 400px;
+    object-fit: cover;
+}
+
+
+.cover {
+    color:white;
+    display: flex;
+    align-items: center;
+    min-height: 100vh;
+}
+#movie {
+    background-color: black;
+    display: flex;
+    align-items: center;
+    min-height: 100vh;
+}
